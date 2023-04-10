@@ -1,4 +1,5 @@
-# Rapport test utilisateur                             ## Date: 05/04/2023
+# Rapport test utilisateur                             
+## Date: 05/04/2023
 ## Test utilisateur numero: 1
 ## Sprint_1: Service Social, Sérvice Medical
 ## Sujet: Validation des maquettes de projet
@@ -43,13 +44,13 @@
 ### Les remarques:
 
 * Remarques dites par le client :
-    1. Pas de données enregistré dans le Pôle medical
-    1. "Entretien social" = "Dossier social" avec le parent
-    1. "Employés" = "Personnel(RH)"
-    1. "Service" = "Prestation" pour les métier de reuducation(5) = "Consultation" pour le médecin générale
-    1. Il ya plus la couverture medical "RAMED"
-    1. Tous les services medical revient vers le médecin générale sauf le ***médcien neurologue***
-    1. Le nombre de préstation est entre 20 et 30 
+    * Pas de données enregistré dans le Pôle medical
+    * "Entretien social" = "Dossier social" avec le parent
+    * "Employés" = "Personnel(RH)"
+    * "Service" = "Prestation" pour les métier de reuducation(5) = "Consultation" pour le médecin générale
+    * Il ya plus la couverture medical "RAMED"
+    * Tous les services medical revient vers le médecin générale sauf le ***médcien neurologue***
+    * Le nombre de préstation est entre 20 et 30 
 
 * Remarques dites par le chef de project :
     * Il vous faut ***un reseau internet interne*** commun entre tous les département du centre pour pouvoir se connecter à l'application par tous le staff addministrative.
@@ -57,22 +58,22 @@
 
 
 * Remarques dites par l'équipe développeur :
-    1. Saisir le nom  et le mdp seulement pour accedé à l'application
-    1. faut ajouter ***un filtre*** dans les "list d'attente"
+    * Saisir le nom  et le mdp seulement pour accedé à l'application
+    * faut ajouter ***un filtre*** dans les "list d'attente"
 
 ### Les questions/ Les réponses
 
-> Questions posées par le client:
+1. Questions posées par le client:
     * Est-ce qu'on peut _importer_ la data sur des fichier excel directement sur l'application ? /OUI
     * Est-ce qu'on peut _exporter_ la data sur l'apliction vers un fichier excel vers la fin de la journée ? /OUI
     * Est-il possible de noter la date d'enregistrement de chaque activité et quel utilisateur a réalisé cette activité ? /OUI
     * Sur les list d'attente est-ce que je peut avoir la "date d'appel" et "le nombre d'appel" par le personnel du service social ? /OUI
 
 
-> Questions posées par l'équipe développeur:
+2. Questions posées par l'équipe développeur:
     * Voulez-vous avoir l'application avec multi_langue ? /NON, Francais seul
 
 
-> Questions posées par le chef de project:
+3. Questions posées par le chef de project:
     * A quelle point vous éte satisfait des maquettes présenté ? /Moyennement Satisfait
     * Est-ce qu'on peut fixer la date du prochain test utilisateur ? /Semaine Prochaine
